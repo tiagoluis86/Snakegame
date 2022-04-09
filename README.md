@@ -1,2 +1,2 @@
-# Snakegame
-Minha versão do tradicional jogo da cobrinha
+# snakegame
+minha versao do snake game
